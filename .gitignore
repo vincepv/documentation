@@ -48,3 +48,15 @@ Thumbs.db
 *.mov
 *.wmv
 
+# Grav Specific
+backup/*
+cache/*
+assets/*
+logs/*
+images/*
+user/accounts/*
+user/data/*
+user/plugins/*
+user/themes/*
+user/localhost/config/security.yaml
+user/config/security.yaml
