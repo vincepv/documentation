@@ -48,7 +48,7 @@ Thumbs.db
 *.mov
 *.wmv
 
-# Grav Specific
+# Grav Specific ignore big folder
 backup/*
 cache/*
 assets/*
